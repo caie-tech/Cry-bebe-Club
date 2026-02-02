@@ -174,7 +174,7 @@
             fill="#ff7aa2"/>
     </svg>
 
-    <h1>nirali will you be my valentine?</h1>
+    <h1>Jem Miller aka Bebeluhvz will you be my valentine?</h1>
 
     <section class="button-zone" id="zone">
       <button id="yesBtn">Yes</button>
