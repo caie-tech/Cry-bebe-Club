@@ -1,7 +1,7 @@
 # Cry-bebe-Club
 
 
-My bebuhvz fowever! <3 ❤️
+My bebuhvz fowever! <3
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
